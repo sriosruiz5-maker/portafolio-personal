@@ -1,6 +1,6 @@
 # Portafolio Profesional
 
-**Autor:** Victor Manuel Rios Obando  
+**Autor:** samuel rios  
 **Descripción:** Sitio web tipo landing page que funciona como portafolio personal.  
 **Tecnologías utilizadas:** HTML, CSS  
 **Enlace del wireframe:** (si tienes uno)  
